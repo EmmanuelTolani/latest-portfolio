@@ -9,7 +9,6 @@
 @import "Blog";
 @import "Skills";
 @import "Copyright";
-@import "Top-non-landing";
 @import "global";
 
 body{
@@ -24,7 +23,7 @@ h1,h2,h3,h4,h5,h6{
 .container {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  max-width: 1200px;
+  max-width: 1366px;
   margin: 0 auto;
 }
 
